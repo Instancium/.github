@@ -30,6 +30,11 @@ refactor through ideas, and grow with purpose.
   It argues with elegance.  
   It enforces with understanding.
 
+- **Component-driven reactivity**  
+  SPA-like behavior without global front-end coupling.  
+  Rendering is server-first — interactivity is opt-in, per component.
+
+
 ---
 
 ## ⚙️ The Format: Instancia
