@@ -19,7 +19,7 @@ Systems that respond to intent, refactor themselves, and grow through ideas.
 🧠 Interfaces built in the language AI knows best: structure and semantics
 
 
-📚 Explore our **TagHelpers Core**  
+
 📜 Read the [Protocol Manifesto](./MANIFESTO.md)
 
 🧠 Learn more: [instancium.com](https://instancium.com)
