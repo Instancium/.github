@@ -23,7 +23,7 @@ refactor through ideas, and grow with purpose.
   The corridor narrows the noise — and amplifies direction.
 
 - **Meaning over mechanics**  
-  `.cs`, `.html`, `.js`, `.css`, `.resx` — unified as one declarative **instance**.
+  `.cs`, `.html`, `.js`, `.css` — unified as one declarative **instance**.
 
 - **AI as observer, not commander**  
   It learns through revision.  
