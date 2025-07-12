@@ -92,3 +92,4 @@ It is a **corridor of expression for systems that think**.
 
 > *When meaning becomes form — AI becomes architecture.*
 
+✒️ [Authorship statement](./authorship.md)
