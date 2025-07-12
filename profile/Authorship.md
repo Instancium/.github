@@ -20,7 +20,7 @@ This choice of pseudonymity is intentional, allowing ideas and architecture to t
 Formal identity may be revealed at a later stage through an official update to this file.
 
 ## Trademark Notice
-The Instancium name, logo, and related brand elements are proprietary assets created and maintained by the Instancium project and are not covered by the open-source code license.
+The Instancium logo and name are brand identifiers of the project and are not licensed under the open-source code license.
 
 ## Contact
 
