@@ -1,11 +1,11 @@
-# ✒️ Authorship
+## Authorship
 
 All original work under the **Instancium Protocol** is authored by [`Instancian`](https://github.com/Instancian),  
 an entity operating under a pseudonym to emphasize architectural ideas over personal identity.  
 Contributions are published in public, versioned repositories and can be verified via Git history.
 
 
-## 🔗 Verification
+## Verification
 
 - GitHub: [`github.com/Instancian`](https://github.com/Instancian)  
 - Protocol domain: [`instancium.com`](https://instancium.com)  
@@ -14,15 +14,15 @@ Contributions are published in public, versioned repositories and can be verifie
 
 All links above are considered canonical sources for the protocol's evolution.
 
-## 🔐 Author Identity
+## Author Identity
 Instancian prefers to remain pseudonymous at this stage of protocol development.
 This choice of pseudonymity is intentional, allowing ideas and architecture to take precedence over personal identity.
 Formal identity may be revealed at a later stage through an official update to this file.
 
-### Trademark Notice
+## Trademark Notice
 The Instancium name, logo, and related brand elements are proprietary assets created and maintained by the Instancium project and are not covered by the open-source code license.
 
-## 🧠 Contact
+## Contact
 
 For project discussions, contributions, or protocol alignment,  
 please open an issue or discussion on the GitHub repository  
