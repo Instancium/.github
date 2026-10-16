@@ -1,7 +1,5 @@
 ![Instancium Banner](https://via.placeholder.com/1200x250/000000/FFFFFF?text=Instancium:+Architecture+of+Digital+Autonomy)
 
-### Architecture of Digital Autonomy
-
 **Instancium** is an independent R&D lab building the infrastructure for digital autonomy. We provide the standards, tools, and architectural foundations for people, businesses, and communities to retain absolute control over their data, identity, and digital systems.
 
 We are shifting the paradigm from an *architecture of dependency* to an **architecture of autonomy**.
